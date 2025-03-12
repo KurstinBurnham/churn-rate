@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Welcome to our churn rate analysis
+# Welcome to our Churn Rate Analysis
 
 _Get started using GitHub in less than an hour._
 
